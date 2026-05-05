@@ -96,7 +96,9 @@ export default function Hero() {
           }}>
             <div style={{ width:'100%',height:'100%',borderRadius:'50%',overflow:'hidden',background:'var(--bg2)',border:'3px solid rgba(7,13,20,1)' }}>
               <img
-                src="https://i.postimg.cc/pVmLKPZL/Whats-App-Image-2026-04-24-at-19-25-51.jpg"
+                //src="https://i.postimg.cc/pVmLKPZL/Whats-App-Image-2026-04-24-at-19-25-51.jpg"
+                  src="https://i.postimg.cc/59zvYHcQ/Whats-App-Image-2026-05-05-at-23-11-22.jpg"
+
                 alt="Ishu Sati — Senior iOS Developer"
                 style={{ width:'100%',height:'100%',objectFit:'cover',objectPosition:'center' }}
               />
